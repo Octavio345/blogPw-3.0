@@ -1,0 +1,14 @@
+header{
+    color: white;
+    background-color: black;
+        
+}
+body{
+    color: white;
+    background-color: black;
+}
+#cabeçalho{
+    background-color: green;
+    display: flex;
+    justify-content: space-between;
+}
